@@ -2,7 +2,7 @@
 
 🎓 Técnico en informática | 🚀 Futuro Ingeniero en Informática  
 💻 Amante de la programación, automatización y la infraestructura moderna  
-📍 Maipú, Mendoza, Argentina 🇦🇷
+📍 Mendoza, Argentina 🇦🇷
 
 ### 🚧 Proyectos en los que estoy trabajando:
 - 🔐 GestorSimple: Sistema de login y gestión con Angular + Node + MySQL + Docker
